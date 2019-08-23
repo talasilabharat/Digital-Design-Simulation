@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/D_Flip_Flop/d_ff.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/D_Flip_Flop/d_ff.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/D_Flip_Flop/d_ff.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/D_Flip_Flop/d_ff.syr" 

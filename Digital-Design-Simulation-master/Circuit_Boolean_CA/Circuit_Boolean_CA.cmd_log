@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/Circuit_Boolean_CA/Circuit_Boolean_CA.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/Circuit_Boolean_CA/Circuit_Boolean_CA.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/Circuit_Boolean_CA/Circuit_Boolean_CA.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/Circuit_Boolean_CA/Circuit_Boolean_CA.syr" 
