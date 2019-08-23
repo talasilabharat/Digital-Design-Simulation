@@ -1,0 +1,18 @@
+Running: F:\Xilinx\12.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/bharat arora/Documents/GitHub/Xlinx/Simple_Circuit_pop_delay/t_Simple_Circuit_opo_delay_isim_beh.exe -prj C:/Users/bharat arora/Documents/GitHub/Xlinx/Simple_Circuit_pop_delay/t_Simple_Circuit_opo_delay_beh.prj work.t_Simple_Circuit_opo_delay work.glbl 
+ISim M.63c (signature 0x7dea747)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"C:/Users/bharat arora/Documents/GitHub/Xlinx/Simple_Circuit_pop_delay/Simple_Circuit_pop_delay.v\" into library work
+Analyzing Verilog file \"C:/Users/bharat arora/Documents/GitHub/Xlinx/Simple_Circuit_pop_delay/t_Simple_Circuit_opo_delay.v\" into library work
+Analyzing Verilog file \"F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Simple_Circuit_pop_delay
+Compiling module t_Simple_Circuit_opo_delay
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 3 Verilog Units
+Built simulation executable C:/Users/bharat arora/Documents/GitHub/Xlinx/Simple_Circuit_pop_delay/t_Simple_Circuit_opo_delay_isim_beh.exe
+Fuse Memory Usage: 15452 KB
+Fuse CPU Usage: 186 ms

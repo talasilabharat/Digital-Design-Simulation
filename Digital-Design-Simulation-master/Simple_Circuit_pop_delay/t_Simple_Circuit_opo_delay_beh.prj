@@ -1,0 +1,3 @@
+verilog work "Simple_Circuit_pop_delay.v"
+verilog work "t_Simple_Circuit_opo_delay.v"
+verilog work "F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"
