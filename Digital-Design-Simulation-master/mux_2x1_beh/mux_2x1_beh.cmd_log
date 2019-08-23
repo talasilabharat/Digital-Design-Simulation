@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/mux_2x1_beh/mux_2x1_beh.syr" 

@@ -1,0 +1,3 @@
+verilog work "Ring_counter.v"
+verilog work "Ring_counter_tb.v"
+verilog work "F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"
