@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="JK_flip_flop_by_D.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="JK_flip_flop_D.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="JK_flip_flop_D.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="JK_flip_flop_D.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="JK_flip_flop_D.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="JK_flip_flop_D.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="JK_flip_flop_D.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="JK_flip_flop_D.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="JK_flip_flop_D.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="JK_flip_flop_D_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="JK_flip_flop_D_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="JK_flip_flop_D_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="JK_flip_flop_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="JK_flip_flop_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="JK_flip_flop_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="JK_flip_flop_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1479576702" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1479576702">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576924" xil_pn:in_ck="-1782886668271466664" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1479576924">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="JK_flip_flop_by_D.v"/>
+      <outfile xil_pn:name="JK_flip_flop_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576706" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="659375003495781659" xil_pn:start_ts="1479576706">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576706" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5129430802895816221" xil_pn:start_ts="1479576706">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576706" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="8873631623615565481" xil_pn:start_ts="1479576706">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576928" xil_pn:in_ck="-1782886668271466664" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1479576928">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="JK_flip_flop_by_D.v"/>
+      <outfile xil_pn:name="JK_flip_flop_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576930" xil_pn:in_ck="-1782886668271466664" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6339572800067171703" xil_pn:start_ts="1479576928">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="JK_flip_flop_tb_beh.prj"/>
+      <outfile xil_pn:name="JK_flip_flop_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576930" xil_pn:in_ck="8055111123516344979" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-2423055652349599366" xil_pn:start_ts="1479576930">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="JK_flip_flop_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1479576385">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="2333337527723669963" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="8873631623615565481" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="8470582474687969545" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280842703814" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576386" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="6358191710726622003" xil_pn:start_ts="1479576386">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1479576893" xil_pn:in_ck="-3061649082353990160" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-204941993911404624" xil_pn:start_ts="1479576886">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="JK_flip_flop_D.lso"/>
+      <outfile xil_pn:name="JK_flip_flop_D.ngc"/>
+      <outfile xil_pn:name="JK_flip_flop_D.ngr"/>
+      <outfile xil_pn:name="JK_flip_flop_D.prj"/>
+      <outfile xil_pn:name="JK_flip_flop_D.stx"/>
+      <outfile xil_pn:name="JK_flip_flop_D.syr"/>
+      <outfile xil_pn:name="JK_flip_flop_D.xst"/>
+      <outfile xil_pn:name="JK_flip_flop_D_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

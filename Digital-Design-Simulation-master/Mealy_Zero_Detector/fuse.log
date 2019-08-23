@@ -1,0 +1,19 @@
+Running: F:\Xilinx\12.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/bharat arora/Documents/GitHub/Xlinx/Mealy_Zero_Detector/Mealy_tb_isim_beh.exe -prj C:/Users/bharat arora/Documents/GitHub/Xlinx/Mealy_Zero_Detector/Mealy_tb_beh.prj work.Mealy_tb work.glbl 
+ISim M.63c (signature 0x7dea747)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"C:/Users/bharat arora/Documents/GitHub/Xlinx/Mealy_Zero_Detector/Mealy_Zero_Detector.v\" into library work
+Analyzing Verilog file \"C:/Users/bharat arora/Documents/GitHub/Xlinx/Mealy_Zero_Detector/Mealy_tb.v\" into library work
+Analyzing Verilog file \"F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module D_flip_flop
+Compiling module Mealy_Zero_Detector
+Compiling module Mealy_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 4 Verilog Units
+Built simulation executable C:/Users/bharat arora/Documents/GitHub/Xlinx/Mealy_Zero_Detector/Mealy_tb_isim_beh.exe
+Fuse Memory Usage: 15524 KB
+Fuse CPU Usage: 108 ms

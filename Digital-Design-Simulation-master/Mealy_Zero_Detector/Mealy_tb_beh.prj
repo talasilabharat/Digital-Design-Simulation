@@ -1,0 +1,3 @@
+verilog work "Mealy_Zero_Detector.v"
+verilog work "Mealy_tb.v"
+verilog work "F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"

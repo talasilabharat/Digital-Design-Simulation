@@ -1,0 +1,3 @@
+verilog isim_temp "Mealy_Zero_Detector.v"
+verilog isim_temp "Mealy_tb.v"
+verilog isim_temp "F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"
