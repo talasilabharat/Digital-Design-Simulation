@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.syr" 

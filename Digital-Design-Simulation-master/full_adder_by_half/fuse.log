@@ -1,0 +1,18 @@
+Running: F:\Xilinx\12.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half_isim_beh.exe -prj C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half_beh.prj work.full_adder_by_half work.glbl 
+ISim M.63c (signature 0x7dea747)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half.v\" into library work
+Analyzing Verilog file \"F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module half_adder
+Compiling module full_adder_by_half
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half_isim_beh.exe
+Fuse Memory Usage: 15372 KB
+Fuse CPU Usage: 124 ms

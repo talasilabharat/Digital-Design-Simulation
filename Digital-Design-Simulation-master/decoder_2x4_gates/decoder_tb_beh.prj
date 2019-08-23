@@ -1,0 +1,3 @@
+verilog work "decoder_2x4_gates.v"
+verilog work "decoder_tb.v"
+verilog work "F:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"

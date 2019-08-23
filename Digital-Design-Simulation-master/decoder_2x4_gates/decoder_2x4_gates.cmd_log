@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.syr" 
+xst -intstyle ise -ifn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.xst" -ofn "C:/Users/bharat arora/Documents/GitHub/Xlinx/decoder_2x4_gates/decoder_2x4_gates.syr" 

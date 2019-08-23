@@ -1,0 +1,14 @@
+ISim log file
+Running: C:\Users\bharat arora\Documents\GitHub\Xlinx\full_adder_by_half\full_adder_by_half_isim_beh.exe -gui -tclbatch isim.cmd -wdb C:/Users/bharat arora/Documents/GitHub/Xlinx/full_adder_by_half/full_adder_by_half_isim_beh.wdb 
+ISim M.63c (signature 0x7dea747)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /full_adder_by_half/x 0 -radix bin -value 1 -radix bin -time 20 ns -repeat 40 ns
+# isim force add /full_adder_by_half/y 0 -radix bin -value 1 -radix bin -time 10 ns -repeat 20 ns
+# isim force add /full_adder_by_half/z 0 -radix bin -value 1 -radix bin -time 5 ns -repeat 10 ns
+# run 1.00us
